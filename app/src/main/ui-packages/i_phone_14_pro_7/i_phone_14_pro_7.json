@@ -1,0 +1,512 @@
+{
+  "name": "i_phone_14_pro_7",
+  "version": 32,
+  "source-key": {
+    "type": "figma",
+    "file": "XFTBltLdf7Cp50VocfVW3n",
+    "node": "1:87",
+    "version": "3113260097",
+    "component-id": "5ba4e883ff7b7a28122743b3d0d6fa13223ec7aa"
+  },
+  "default": "iPhone 14 Pro - 7",
+  "documentation": "Empty message page",
+  "design": {
+    "atoms": [
+      {
+        "type": "group",
+        "id": "top_level",
+        "root": "true"
+      },
+      {
+        "type": "group",
+        "id": "Frame 2"
+      },
+      {
+        "type": "group",
+        "id": "Frame 11"
+      },
+      {
+        "type": "text",
+        "id": "Messages"
+      },
+      {
+        "type": "group",
+        "id": "KeyWords_button"
+      },
+      {
+        "type": "group",
+        "id": "Device_button"
+      },
+      {
+        "type": "group",
+        "id": "Home_button"
+      },
+      {
+        "type": "text",
+        "id": "Key Words"
+      },
+      {
+        "type": "text",
+        "id": "Devices"
+      },
+      {
+        "type": "group",
+        "id": "🦆 icon \"home outline\""
+      },
+      {
+        "type": "vector",
+        "id": "Vector"
+      },
+      {
+        "type": "vector",
+        "id": "Home_icon"
+      }
+    ],
+    "modes": {
+      "iPhone 14 Pro - 7": {
+        "rules": [
+          {
+            "id": "top_level",
+            "is-structured": "false",
+            "children": [
+              "Frame 2",
+              "Frame 11"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.8509803921568627"
+            },
+            "fills": [
+              {
+                "color": {
+                  "alpha": "0.8980392156862745",
+                  "hue": "0.0",
+                  "saturation": "0.0",
+                  "value": "1.0"
+                },
+                "opacity": "1.0",
+                "fill-type": "solid",
+                "blend-mode": "normal",
+                "color-stops": [],
+                "gradient-handle-positions": []
+              }
+            ]
+          },
+          {
+            "id": "Frame 2",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "393.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "70.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "stroke-alignment": "outside",
+            "stroke-color": {
+              "alpha": "1.0",
+              "hue": "210.0",
+              "saturation": "1.0",
+              "value": "0.4"
+            },
+            "is-structured": "false",
+            "children": [
+              "Messages"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.8"
+            },
+            "fills": [
+              {
+                "color": {
+                  "alpha": "0.8",
+                  "hue": "0.0",
+                  "saturation": "0.0",
+                  "value": "1.0"
+                },
+                "opacity": "1.0",
+                "fill-type": "solid",
+                "blend-mode": "normal",
+                "color-stops": [],
+                "gradient-handle-positions": []
+              }
+            ]
+          },
+          {
+            "id": "Frame 11",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "782.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "393.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "70.0"
+              }
+            },
+            "stroke-width": "1.0",
+            "stroke-alignment": "outside",
+            "stroke-color": {
+              "alpha": "1.0",
+              "hue": "210.0",
+              "saturation": "1.0",
+              "value": "0.4"
+            },
+            "is-structured": "false",
+            "children": [
+              "KeyWords_button",
+              "Device_button",
+              "Home_button"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Messages",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-1.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "243.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.0"
+              }
+            },
+            "font-weight": "700.0",
+            "color": {
+              "alpha": "1.0",
+              "hue": "210.0",
+              "saturation": "1.0",
+              "value": "0.4"
+            },
+            "text-content": "Messages",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "24.0",
+            "line-height": "1.25",
+            "typeface": "Lexend Deca"
+          },
+          {
+            "id": "KeyWords_button",
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "158.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "70.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Key Words"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.8"
+            },
+            "fills": [
+              {
+                "color": {
+                  "alpha": "0.8",
+                  "hue": "0.0",
+                  "saturation": "0.0",
+                  "value": "1.0"
+                },
+                "opacity": "1.0",
+                "fill-type": "solid",
+                "blend-mode": "normal",
+                "color-stops": [],
+                "gradient-handle-positions": []
+              }
+            ]
+          },
+          {
+            "id": "Device_button",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "241.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "152.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "70.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Devices"
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.8"
+            },
+            "fills": [
+              {
+                "color": {
+                  "alpha": "0.8",
+                  "hue": "0.0",
+                  "saturation": "0.0",
+                  "value": "1.0"
+                },
+                "opacity": "1.0",
+                "fill-type": "solid",
+                "blend-mode": "normal",
+                "color-stops": [],
+                "gradient-handle-positions": []
+              }
+            ]
+          },
+          {
+            "id": "Home_button",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "158.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "83.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "70.0"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "🦆 icon \"home outline\""
+            ],
+            "background-color": {
+              "alpha": "1.0",
+              "hue": "0.0",
+              "saturation": "0.0",
+              "value": "0.8"
+            },
+            "fills": [
+              {
+                "color": {
+                  "alpha": "0.8",
+                  "hue": "0.0",
+                  "saturation": "0.0",
+                  "value": "1.0"
+                },
+                "opacity": "1.0",
+                "fill-type": "solid",
+                "blend-mode": "normal",
+                "color-stops": [],
+                "gradient-handle-positions": []
+              }
+            ]
+          },
+          {
+            "id": "Key Words",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-1.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "243.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "210.0",
+              "saturation": "1.0",
+              "value": "0.4"
+            },
+            "text-content": "Key Words",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "25.0",
+            "line-height": "1.25",
+            "typeface": "Lexend Deca"
+          },
+          {
+            "id": "Devices",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "-0.5"
+              },
+              "vertical": {
+                "attachment": "center",
+                "offset": "-1.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "243.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "34.0"
+              }
+            },
+            "color": {
+              "alpha": "1.0",
+              "hue": "210.0",
+              "saturation": "1.0",
+              "value": "0.4"
+            },
+            "text-content": "Devices",
+            "overflow": "visible",
+            "max-lines": "-1",
+            "text-align-vertical": "center",
+            "text-size": "25.0",
+            "line-height": "1.25",
+            "typeface": "Lexend Deca"
+          },
+          {
+            "id": "🦆 icon \"home outline\"",
+            "alignment": {
+              "horizontal": {
+                "attachment": "start",
+                "offset": "7.0"
+              },
+              "vertical": {
+                "attachment": "start",
+                "offset": "-2.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "71.29066467285156"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "71.2906494140625"
+              }
+            },
+            "is-structured": "false",
+            "children": [
+              "Vector",
+              "Home_icon"
+            ],
+            "clip-content": "false"
+          },
+          {
+            "id": "Vector",
+            "alignment": {
+              "horizontal": {
+                "attachment": "center",
+                "offset": "0.0"
+              },
+              "vertical": {
+                "attachment": "end",
+                "offset": "0.0"
+              }
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "fixed",
+                "value": "71.29066467285156"
+              },
+              "height-constraints": {
+                "sizing-mode": "fixed",
+                "value": "71.2906494140625"
+              }
+            }
+          },
+          {
+            "id": "Home_icon",
+            "margin": {
+              "left": "16.0",
+              "top": "15.0",
+              "right": "18.290664672851562",
+              "bottom": "15.2906494140625"
+            },
+            "size-constraints": {
+              "width-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              },
+              "height-constraints": {
+                "sizing-mode": "proportional",
+                "value": "1.0"
+              }
+            },
+            "vector-content": "home_icon.svg"
+          }
+        ]
+      }
+    }
+  },
+  "previews": [
+    {
+      "design": "iPhone 14 Pro - 7",
+      "size": {
+        "width": 393.0,
+        "height": 852.0
+      }
+    }
+  ],
+  "adin-component-search-paths": [],
+  "image-search-paths": [],
+  "vector-search-paths": []
+}
